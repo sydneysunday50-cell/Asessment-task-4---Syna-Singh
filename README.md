@@ -55,11 +55,11 @@ frameborder="0" allowfullscreen > </iframe >
 <h3 > The Ghost Interview</h3 >
 
 <p >
-The goal of this task was to create a video that showed both technical skill and storytelling, based on a YouTuber searching for ghosts.
+The goal of this task was to create a video that showed both technical skill and storytelling, based on a YouTuber searching for ghosts. Which I helped record, since I was working in a group.
 </p >
 
 <p >
-My focus shifted from technical work to emotional impact and audience engagement. I worked on pacing, lighting, and sound.
+My focus shifted from technical work to emotional impact and audience engagement. My group worked on pacing, lighting, and sound.
 </p >
 
 <p > <b > Strengths:</b > </p >
@@ -77,11 +77,11 @@ My focus shifted from technical work to emotional impact and audience engagement
 </ul >
 
 <p >
-This task taught me the importance of balancing planning and creativity. Storytelling relies on emotion and rhythm as much as visuals.
+This task taught me the importance of balancing, planning, teamwork, and creativity. Storytelling relies on emotion and rhythm as much as visuals.
 </p >
 
 <p >
-In future, I would plan more with storyboards, test lighting setups, and improve post-production.
+In the upcoming future, I would plan with storyboards with a group member, and help them test lighting setups, and improve post-production.
 </p >
 
 <h3 > Video</h3 >
@@ -91,7 +91,7 @@ src="https://www.youtube.com/embed/ygf_iqXw8Ts"
 frameborder="0" allowfullscreen > </iframe >
 
 
-<p>Below are screenshots from the script used in Assessment Task 4:</p>
+<p>Below are screenshots from the script used in Assessment Task 4, that I help record:</p>
 
     <img src="image.png" alt="Script Screenshot 1">
     <img src="Screenshot_20260602-200228.png" alt="Script Screenshot 2">
