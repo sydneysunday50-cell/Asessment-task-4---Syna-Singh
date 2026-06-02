@@ -1,5 +1,4 @@
 # Asessment-task-4---Syna-Singh
-</style >
 </head >
 
 <body >
