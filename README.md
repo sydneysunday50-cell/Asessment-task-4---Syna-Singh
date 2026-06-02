@@ -140,11 +140,7 @@ This relates closely to the course <b>Screen Media Fundamentals</b>, as it demon
     </p>
 
     <p>
-Although I did not attend the event, researching it allowed me to develop a stronger understanding of how professional filmmakers use visual storytelling and sound to communicate ideas and emotions. It also emphasised the importance of audience engagement in media production, showing that successful films are not only technically well-made but also meaningful and impactful. This knowledge can be applied to my own work by improving my use of cinematic techniques and my ability to create engaging and purposeful media content.
-    </p>
-
-    <p>
-        Overall, the Sydney Film Festival acts as a space where ideas are shared, creativity is celebrated, and the future of screen media is explored.
+Although I did not attend the event, researching it allowed me to develop a stronger understanding of how professional filmmakers use visual storytelling and sound to communicate ideas and emotions. It also emphasised the importance of audience engagement in media production, showing that successful films are not only technically well-made but also meaningful and impactful. This knowledge can be applied to my own work by improving my use of cinematic techniques and my ability to create engaging and purposeful media content. Overall, the Sydney Film Festival acts as a space where ideas are shared, creativity is celebrated, and the future of screen media is explored.
     </p>
 </section>
 
