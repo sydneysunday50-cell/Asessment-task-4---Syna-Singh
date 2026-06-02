@@ -43,7 +43,7 @@ This task taught me that even simple actions can tell a story without dialogue. 
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/QoZsiUpDZyw"
-frameborder="0" allowfullscreen > </iframe >
+frameborder="0" allowfullscreen iframe>
 
 <p><b>Note:</b> No script was created for this video.</p>
 
@@ -88,7 +88,7 @@ In the upcoming future, I would plan with storyboards with a group member, and h
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/ygf_iqXw8Ts"
-frameborder="0" allowfullscreen > </iframe >
+frameborder="0" allowfullscreen iframe>
 
 
 <p>Below are screenshots from the script used in Assessment Task 4, that I help record:</p>
