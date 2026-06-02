@@ -108,39 +108,39 @@ section>
     <h2>Section 2: Industry Event</h2>
 
     <p>
-        The Sydney Film Festival is an annual industry event that showcases a diverse range of international and Australian films across different genres and styles. It is held in Sydney, including the State Theatre, Sydney Opera House, Event Cinemas George Street, Dendy Newtown, Ritz Randwick, and Hayden Orpheum Picture Palace. It attracts filmmakers, directors, producers, critics, and audiences who all share a deep interest in screen media and storytelling. This festival provides a platform for both emerging and established filmmakers to present their work, gain recognition, and connect with others in the industry.
+The Sydney Film Festival is an annual industry event that showcases a diverse range of international and Australian films across different genres and styles. It is held in Sydney, including the State Theatre, Sydney Opera House, Event Cinemas George Street, Dendy Newtown, Ritz Randwick, and Hayden Orpheum Picture Palace. It attracts filmmakers, directors, producers, critics, and audiences who all share a deep interest in screen media and storytelling. This festival provides a platform for both emerging and established filmmakers to present their work, gain recognition, and connect with others in the industry.
     </p>
 
     <p>
-        In addition to film screenings, the festival includes panel discussions, Q&amp;A sessions, and special events where creators discuss their creative processes, filmmaking techniques, and industry experiences. These interactions allow audiences and aspiring media students to gain insight into real-world media production and the creative decisions behind filmmaking.
+In addition to film screenings, the festival includes panel discussions, Q&amp;A sessions, and special events where creators discuss their creative processes, filmmaking techniques, and industry experiences. These interactions allow audiences and aspiring media students to gain insight into real-world media production and the creative decisions behind filmmaking.
     </p>
 
     <p>
-        This event plays an important role in promoting film culture and supporting the growth of the screen media industry. It encourages innovation and experimentation by showcasing unique narratives, diverse perspectives, and new filmmaking technologies.
+This event plays an important role in promoting film culture and supporting the growth of the screen media industry. It encourages innovation and experimentation by showcasing unique narratives, diverse perspectives, and new filmmaking technologies.
     </p>
 
     <p>
-        The main purpose of the event is to promote film culture, provide networking opportunities, and allow creators to present their work to a broader audience. By showcasing both international and Australian films, the festival encourages appreciation for diverse storytelling, styles, and perspectives within the screen media industry. This helps audiences develop a deeper understanding of how films represent different cultures.
+The main purpose of the event is to promote film culture, provide networking opportunities, and allow creators to present their work to a broader audience. By showcasing both international and Australian films, the festival encourages appreciation for diverse storytelling, styles, and perspectives within the screen media industry. This helps audiences develop a deeper understanding of how films represent different cultures.
     </p>
 
     <p>
-        In addition, the Sydney Film Festival creates valuable networking opportunities by bringing together filmmakers, producers, critics, and students in one space. This environment allows professionals to share knowledge, discuss industry trends, and build connections that may lead to future collaborations.
+In addition, the Sydney Film Festival creates valuable networking opportunities by bringing together filmmakers, producers, critics, and students in one space. This environment allows professionals to share knowledge, discuss industry trends, and build connections that may lead to future collaborations.
     </p>
 
     <p>
-        Furthermore, the festival allows creators to present their work to a wider audience, increasing visibility and recognition. This exposure can lead to opportunities such as funding, distribution, and career advancement. Overall, the event supports both the artistic and professional development of individuals in the screen media industry while contributing to the growth and innovation of film.
+Furthermore, the festival allows creators to present their work to a wider audience, increasing visibility and recognition. This exposure can lead to opportunities such as funding, distribution, and career advancement. Overall, the event supports both the artistic and professional development of individuals in the screen media industry while contributing to the growth and innovation of film.
     </p>
 
     <p>
-        The event includes activities such as film screenings, panel discussions, and Q&amp;A sessions with directors, providing audiences with a deeper understanding of the filmmaking process. These activities allow attendees to engage directly with industry professionals and gain insight into both creative and technical aspects of film production. Industry professionals, students, and media audiences attend to observe how films are constructed and to learn about current trends in the screen media industry.
+The event includes activities such as film screenings, panel discussions, and Q&amp;A sessions with directors, providing audiences with a deeper understanding of the filmmaking process. These activities allow attendees to engage directly with industry professionals and gain insight into both creative and technical aspects of film production. Industry professionals, students, and media audiences attend to observe how films are constructed and to learn about current trends in the screen media industry.
     </p>
 
     <p>
-        This relates closely to the course <b>Screen Media Fundamentals</b>, as it demonstrates how filmmakers use key techniques such as lighting, editing, camera angles, and narrative structure to engage and influence audiences. Through screenings and discussions, viewers can analyse how these elements work together to create meaning, build atmosphere, and guide emotional responses. The event highlights how technical skills and creativity combine to form effective visual storytelling.
+This relates closely to the course <b>Screen Media Fundamentals</b>, as it demonstrates how filmmakers use key techniques such as lighting, editing, camera angles, and narrative structure to engage and influence audiences. Through screenings and discussions, viewers can analyse how these elements work together to create meaning, build atmosphere, and guide emotional responses. The event highlights how technical skills and creativity combine to form effective visual storytelling.
     </p>
 
     <p>
-        Although I did not attend the event, researching it allowed me to develop a stronger understanding of how professional filmmakers use visual storytelling and sound to communicate ideas and emotions. It also emphasised the importance of audience engagement in media production, showing that successful films are not only technically well-made but also meaningful and impactful. This knowledge can be applied to my own work by improving my use of cinematic techniques and my ability to create engaging and purposeful media content.
+Although I did not attend the event, researching it allowed me to develop a stronger understanding of how professional filmmakers use visual storytelling and sound to communicate ideas and emotions. It also emphasised the importance of audience engagement in media production, showing that successful films are not only technically well-made but also meaningful and impactful. This knowledge can be applied to my own work by improving my use of cinematic techniques and my ability to create engaging and purposeful media content.
     </p>
 
     <p>
